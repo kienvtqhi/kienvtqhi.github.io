@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.rudy.simpleyoutubedownloader",
+    "package_name": "com.radio.simple.free",
     "sha256_cert_fingerprints":
     ["DB:FD:A6:C4:22:EC:92:A2:25:3E:DC:25:A8:A9:FB:1E:43:4D:E9:D7:5F:07:C5:3F:3E:86:1F:3B:FF:C3:29:1D"]
   }
